@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+﻿import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 /* ── tiny hook: intersection observer for reveal animations ── */
@@ -334,7 +334,7 @@ export default function Landing() {
           <span style={{ fontFamily: "'Clash Display','Syne',sans-serif", fontSize: 16, fontWeight: 700, color: '#0A0F1E' }}>SafeDoc</span>
         </div>
         <div style={{ fontSize: 13, color: '#94A3B8' }}>
-          © 2025 SafeDoc · Impression sécurisée de documents officiels · RGPD conforme
+          © 2026 SafeDoc · Sen Digital Innovation · Impression sécurisée de documents officiels · RGPD conforme
         </div>
         <div style={{ display: 'flex', gap: 20 }}>
           {['Confidentialité', 'CGU', 'Contact'].map(l => (
